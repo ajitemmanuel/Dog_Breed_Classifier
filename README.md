@@ -43,4 +43,3 @@ On this part, we use [bottleneck features](https://blog.keras.io/building-powerf
 
 For the last part of this notebook, we build a complete algorithm using the detectors and model written in the previous parts, and we use it to test not previously seen data of dogs and human faces to guess the dog breed or the resembling dog breed. 
 
-![Project Screenshot][image1]
